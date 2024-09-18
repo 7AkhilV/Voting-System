@@ -27,7 +27,7 @@ This Voting System allows users to vote for political parties and enables the cr
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/voting-system.git
+   git clone https://github.com/7AkhilV/Voting-System.git
    cd voting-system
    ```
 
