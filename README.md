@@ -1,7 +1,3 @@
-Sure! Here’s a sample README file for your voting system:
-
----
-
 # Voting System
 
 ## Overview
@@ -86,7 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [PHP](https://www.php.net/) - The server-side programming language.
 - [MySQL](https://www.mysql.com/) - The database management system.
-
----
-
-Feel free to modify any sections to better fit your project's specifics!
